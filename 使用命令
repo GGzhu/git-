@@ -6,3 +6,11 @@ git config --global user.email '111@qq.com'
 
 具体教程：
 https://www.cnblogs.com/sgdd123/p/8338403.html
+
+三步曲:
+
+1.克隆远程仓库到本地: git clone 仓库地址
+2.提交文件到暂存区: git add 文件
+3.查看当前文件状态: git status 查看状态
+4.提交文件到本地仓库: git commit -m "描述"
+5.同步本地与远程仓库: git push 
