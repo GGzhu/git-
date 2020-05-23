@@ -4,6 +4,9 @@ git config --global user.name 'GGzhu'
 2-设置用户邮箱
 git config --global user.email '111@qq.com'
 
+3-同步远程仓库
+git pull
+
 具体教程：
 https://www.cnblogs.com/sgdd123/p/8338403.html
 
